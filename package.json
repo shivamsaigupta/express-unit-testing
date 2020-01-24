@@ -19,5 +19,8 @@
   "homepage": "https://github.com/shivamsaigupta/express-unit-testing#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "supertest": "^4.0.2"
   }
 }
